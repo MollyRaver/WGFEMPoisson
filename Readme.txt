@@ -82,6 +82,6 @@ Zhai, Q, Wang, R, and Mu, L. (2016) Implementation of Weak Galerkin Finite Eleme
 
 
 The theoretical analysis refers to 
-Mu, L., Wang, J., & Ye, X. (2015). A weak Galerkin finite element method with polynomial reduction. Journal of Computational and Applied Mathematics, 285, 45¨C58. http://doi.org/10.1016/j.cam.2015.02.001.
+Mu, L., Wang, J., & Ye, X. (2015). A weak Galerkin finite element method with polynomial reduction. Journal of Computational and Applied Mathematics, 285, 45-58. http://doi.org/10.1016/j.cam.2015.02.001.
 
-Mu, L., Wang, J., & Ye, X. (2015). Weak Galerkin finite element methods on polytopal meshes. International Journal of Numerical Analysis and Modeling, 12(1), 31¨C53. Retrieved from http://arxiv.org/abs/1204.3655
+Mu, L., Wang, J., & Ye, X. (2015). Weak Galerkin finite element methods on polytopal meshes. International Journal of Numerical Analysis and Modeling, 12(1), 31-53. Retrieved from http://arxiv.org/abs/1204.3655
