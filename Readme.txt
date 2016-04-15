@@ -76,7 +76,7 @@ Lin Mu, mul1@ornl.gov
 
 How to cite this code:
 
-Zhai, Q, Wang, R, and Mu, L. (2016) Implementation of Weak Galerkin Finite Element Methods [Computer program]. Available at https://sites.google.com/site/weakgalerkin/home/codes/WGFEMPoisson.zip.
+Zhai, Q, Wang, R, and Mu, L. (2016) Implementation of Weak Galerkin Finite Element Methods [Computer program]. Available at http://GitHub/MollyRaver/WGFEMPoisson.git.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
