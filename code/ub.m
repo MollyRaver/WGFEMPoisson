@@ -12,7 +12,7 @@ switch d2
     case 1
         z=[t 1-t];
     case 2
-        z=[t t.*(1-t) 1-t ];
+        z=[t.^2 t.*(1-t) (1-t).^2 ];
     case 3
         z=[t.^3 t.^2.*(1-t) t.*(1-t).^2 (1-t).^3 ];
     case 4
